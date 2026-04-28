@@ -1,0 +1,15 @@
+D:\Modul9_103022400060\bin\Debug\net10.0\Modul9_103022400060.exe
+D:\Modul9_103022400060\bin\Debug\net10.0\Modul9_103022400060.deps.json
+D:\Modul9_103022400060\bin\Debug\net10.0\Modul9_103022400060.runtimeconfig.json
+D:\Modul9_103022400060\bin\Debug\net10.0\Modul9_103022400060.dll
+D:\Modul9_103022400060\bin\Debug\net10.0\Modul9_103022400060.pdb
+D:\Modul9_103022400060\obj\Debug\net10.0\Modul9_103022400060.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modul9_103022400060\obj\Debug\net10.0\Modul9_103022400060.AssemblyInfoInputs.cache
+D:\Modul9_103022400060\obj\Debug\net10.0\Modul9_103022400060.AssemblyInfo.cs
+D:\Modul9_103022400060\obj\Debug\net10.0\Modul9_103022400060.csproj.CoreCompileInputs.cache
+D:\Modul9_103022400060\obj\Debug\net10.0\Modul9_103022400060.sourcelink.json
+D:\Modul9_103022400060\obj\Debug\net10.0\Modul9_103022400060.dll
+D:\Modul9_103022400060\obj\Debug\net10.0\refint\Modul9_103022400060.dll
+D:\Modul9_103022400060\obj\Debug\net10.0\Modul9_103022400060.pdb
+D:\Modul9_103022400060\obj\Debug\net10.0\Modul9_103022400060.genruntimeconfig.cache
+D:\Modul9_103022400060\obj\Debug\net10.0\ref\Modul9_103022400060.dll
